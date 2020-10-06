@@ -2,10 +2,10 @@
 
 Translation: Hello there! I'm a Jr Data Engineer trying to revive his github profile in what could only be described as an early-career/quarter-life crisis. Stay tuned to watch me blow my AWS budget on superfluous EMR cluster usage. 
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+## Bit about me:
+- :octocat: Finally taking my projects public
+- :wrench: Apprentice Data Plumber
+- :computer: Hardware enthusiast
 - :boxing_glove: Amateur Boxer
 
 
@@ -18,7 +18,12 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 
 ### Languages and Tools:
 
-
+<p float="left">
+  <img src="images/scala.png" width="22" />
+  <img src="images/java.png" width="22" /> 
+  <img src="images/python.png" width="22" />
+  <img src="images/terminal.png" width="22" />
+</p>
 <br />
 <br />
 

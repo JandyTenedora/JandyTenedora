@@ -4,7 +4,6 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - :boxing_glove: Amateur Boxer

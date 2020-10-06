@@ -24,7 +24,6 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
   <img src="images/python.png" width="22" />
   <img src="images/terminal.png" width="22" />
   <img src="images/aws_1.png" width="22" />
-  <img src="images/apache.png" width="22" />
 </p>
 <br />
 <br />

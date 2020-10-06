@@ -23,11 +23,13 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
   <img src="images/java.png" width="22" /> 
   <img src="images/python.png" width="22" />
   <img src="images/terminal.png" width="22" />
+  <img src="images/aws_1.png" width="22" />
+  <img src="images/apache.png" width="22" />
 </p>
 <br />
 <br />
 
 
 
-[instagram]: https://www.instagram.com/jandy.tenedora
+[instagram]: https://www.instagram.com/jandy.tenedora/
 [linkedin]: https://www.linkedin.com/in/jandy-tenedora/

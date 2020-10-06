@@ -6,7 +6,7 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 - :octocat: Finally taking my projects public
 - :mortar_board: Stats + CS
 - :wrench: Apprentice Data Plumber
-- :computer: Hardware Enthusiast (Linus senpai please notice me) 
+- :computer: Hardware Enthusiast 
 - :boxing_glove: Amateur Boxer
 
 

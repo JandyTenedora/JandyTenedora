@@ -14,7 +14,7 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -33,3 +33,4 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 
 [instagram]: https://www.instagram.com/jandy.tenedora/
 [linkedin]: https://www.linkedin.com/in/jandy-tenedora/
+[medium]: https://medium.com/@jandytenedora

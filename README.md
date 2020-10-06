@@ -4,6 +4,7 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 
 ## Bit about me:
 - :octocat: Finally taking my projects public
+- :mortar_board: Stats + CS
 - :wrench: Apprentice Data Plumber
 - :computer: Hardware enthusiast
 - :boxing_glove: Amateur Boxer

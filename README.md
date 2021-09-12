@@ -8,7 +8,7 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 - :wrench: Apprentice Data Plumber
 - :computer: Hardware Enthusiast 
 - :boxing_glove: Amateur Boxer
-- :books: Java Servlet Programming
+- :books: Akka Cookbook
 
 
 ### Connect with me:

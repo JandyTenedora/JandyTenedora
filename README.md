@@ -39,4 +39,4 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 [linkedin]: https://www.linkedin.com/in/jandy-tenedora/
 [medium]: https://medium.com/@jandytenedora
 [hackerrank]: https://www.hackerrank.com/jandy_tenedora
-[notion]: https://www.hackerrank.com/jandy_tenedora
+[notion]: https://boulder-chipmunk-8c9.notion.site/Engineering-Study-b004d4c26d59431eb052d46ee77e0304

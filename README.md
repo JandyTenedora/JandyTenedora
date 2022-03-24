@@ -17,6 +17,7 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+[<img align="left" alt="codeSTACKr | Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />][notion]
 <br />
 
 ### Languages and Tools:
@@ -38,3 +39,4 @@ Translation: Hello there! I'm a Jr Data Engineer trying to revive his github pro
 [linkedin]: https://www.linkedin.com/in/jandy-tenedora/
 [medium]: https://medium.com/@jandytenedora
 [hackerrank]: https://www.hackerrank.com/jandy_tenedora
+[notion]: https://www.hackerrank.com/jandy_tenedora

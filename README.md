@@ -1,7 +1,5 @@
 ### Beep boop beep!  👋
 
-Translation: Hello there! I'm a Jr Data Engineer trying to revive his github profile in what could only be described as an early-career/quarter-life crisis. Stay tuned to watch me blow my AWS budget on superfluous EMR cluster usage. 
-
 ## Bit about me:
 - :octocat: Finally taking my projects public
 - :mortar_board: Stats + CS

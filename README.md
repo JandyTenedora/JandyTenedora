@@ -1,9 +1,10 @@
 ### Beep boop beep!  👋
+Stay tuned to watch me blow my AWS budget on superfluous EMR cluster usage. 
 
 ## Bit about me:
 - :octocat: Finally taking my projects public
 - :mortar_board: Stats + CS
-- :wrench: Apprentice Data Plumber
+- :wrench: Data Plumber
 - :computer: Hardware Enthusiast 
 - :boxing_glove: Amateur Boxer
 - :books: Akka Cookbook

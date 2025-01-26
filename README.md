@@ -22,11 +22,14 @@ Stay tuned to watch me blow my AWS budget on superfluous EMR cluster usage.
 ### Languages and Tools:
 
 <p float="left">
-  <img src="images/scala.png" width="22" />
-  <img src="images/java.png" width="22" /> 
   <img src="images/python.png" width="22" />
+  <img src="images/scala.png" width="22" />
+  <img src="images/golang.png" width="22" />
+  <img src="images/java.png" width="22" /> 
   <img src="images/terminal.png" width="22" />
   <img src="images/aws_1.png" width="22" />
+  <img src="images/gcp.png" width="22" />
+  <img src="images/terraform.png" width="22" />
   <img src="images/ansible.png" width="22" />
 </p>
 <br />

@@ -7,7 +7,7 @@ Stay tuned to watch me blow my AWS budget on superfluous EMR cluster usage.
 - :wrench: Data Plumber
 - :computer: Hardware Enthusiast 
 - :boxing_glove: Amateur Boxer
-- :books: Akka Cookbook
+- :books: Network Programming In Go
 
 
 ### Connect with me:

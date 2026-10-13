@@ -1,8 +1,5 @@
 ## Bit about me:
 - :octocat: Finally dedicating time to FOSS 
-- :mortar_board: Stats + CS
-- :wrench: Data Plumber + Backend Engineer 
-- :computer: Hardware Enthusiast 
 - :books: Engineering a Safer World - Nancy G. Leveson
 
 

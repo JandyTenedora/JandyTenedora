@@ -3,7 +3,7 @@
 - :mortar_board: Stats + CS
 - :wrench: Data Plumber + Backend Engineer 
 - :computer: Hardware Enthusiast 
-- :books: How Asia Works - Joe Studwell 
+- :books: Engineering a Safer World - Nancy G. Leveson
 
 
 ### Connect with me:

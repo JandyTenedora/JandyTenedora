@@ -15,10 +15,10 @@
 ### Languages and Tools:
 
 <p float="left">
-  <img src="images/python.png" width="22" />
   <img src="images/scala.png" width="22" />
-  <img src="images/golang.png" width="22" />
   <img src="images/java.png" width="22" /> 
+  <img src="images/golang.png" width="22" />
+  <img src="images/python.png" width="22" />
   <img src="images/terminal.png" width="22" />
   <img src="images/aws_1.png" width="22" />
   <img src="images/gcp.png" width="22" />
